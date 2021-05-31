@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3af0eddfec5759f47aabf510cfb211c5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubePrototype: {instanceID: 0}
+  - spherePrototype: {instanceID: 0}
+  - cylinderPrototype: {instanceID: 0}
+  - CubeContainer: {instanceID: 0}
+  - SphereContainer: {instanceID: 0}
+  - CylinderContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
