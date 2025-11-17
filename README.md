@@ -44,8 +44,6 @@ cd Graphics_Unity3D
 ### Project Structure 
 Graphics_Unity3D/
 
-│
-
 ├─ Assets/             ← Unity asset folder (scenes, scripts, shaders, materials)
 
 ├─ Packages/           ← Unity packages and dependencies
