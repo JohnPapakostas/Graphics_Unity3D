@@ -41,6 +41,16 @@ The project is built primarily using C# (≈ 15 %) and ShaderLab / HLSL (≈ 85 
 git clone https://github.com/JohnPapakostas/Graphics_Unity3D.git
 cd Graphics_Unity3D
 ```
+### Project Structure 
+Graphics_Unity3D/
+│
+├─ Assets/             ← Unity asset folder (scenes, scripts, shaders, materials)
+├─ Packages/           ← Unity packages and dependencies
+├─ ProjectSettings/    ← Unity project configuration
+├─ obj/Debug/          ← Build/debug artefacts (auto-generated)
+├─ Assembly-CSharp.csproj
+├─ Graphics2.sln       ← Visual Studio solution (if applicable)
+└─ README.md
 
 ### Usage
 
